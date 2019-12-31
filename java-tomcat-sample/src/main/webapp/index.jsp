@@ -1,7 +1,7 @@
 <html>
 <body>
-<h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
-<p>This is just a sample text </p>
-<p>Hi</p>
+<h2>Hi, Welcome to setting up of CI/CD pipeline demo</h2>
+<p>.. </p>
+<p>..</p>
 </body>
 </html>
