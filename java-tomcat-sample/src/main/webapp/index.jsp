@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hi, Welcome to setting up of CI/CD pipeline demo</h2>
+<h2>Hi, Welcome to the demo of setting up of CI/CD pipeline using Jenkins</h2>
 <p>.. </p>
 <p>..</p>
 </body>
